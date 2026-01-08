@@ -52,10 +52,3 @@ The **12% jump in accuracy** with ResNet-50 demonstrates the efficiency of **Tra
 * **Hardware:** Google Colab T4 GPU
 * **Dataset:** HAM10000 (Skin Cancer MNIST)
 * **Libraries:** `torch`, `torchvision`, `pandas`, `scikit-learn`, `matplotlib`
-
----
-
-## 📂 How to Run
-1. Upload your `kaggle.json` to the environment.
-2. Run the data organization script to sort images into class folders.
-3. Execute the training blocks for both the Baseline and ResNet models.
